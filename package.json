@@ -2,7 +2,7 @@
   "name": "raghottams-application",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://raghottamvkalkeri.github.io/RaghottamFirstReactProject/",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -1,4 +1,14 @@
-import { Client, Databases, ID, Query } from 'appwrite';
+import React from 'react';
+  
+  const Appwrite = () =>  {
+	return (
+	  <div>
+	  </div>
+	);
+  }
+  
+  export default Appwrite;
+  import { Client, Databases, ID, Query } from 'appwrite';
 const DATABSE_ID = import.meta.env.VITE_APPWRITE_DATABASE_ID;
 const COLLECTION_ID = import.meta.env.VITE_APPWRITE_COLLECTION_ID;
 const PROJECT_ID = import.meta.env.VITE_APPWRITE_PROJECT_ID;
